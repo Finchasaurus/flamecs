@@ -21,7 +21,7 @@
 	},
 	"dependencies": {
 		"@flamework/core": "^1.2.3",
-		"@rbxts/jecs": "github:Ukendio/jecs",
+		"@rbxts/jecs": "latest",
 		"rbxts-transformer-flamework": "^1.2.3"
 	},
 	"devDependencies": {
