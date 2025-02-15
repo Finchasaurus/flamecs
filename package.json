@@ -21,7 +21,7 @@
 	},
 	"dependencies": {
 		"@flamework/core": "^1.2.3",
-		"@rbxts/jecs": "latest",
+		"@rbxts/jecs": "^0.5.3",
 		"rbxts-transformer-flamework": "^1.2.3"
 	},
 	"devDependencies": {
